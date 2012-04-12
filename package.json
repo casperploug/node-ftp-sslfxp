@@ -1,0 +1,21 @@
+{
+  "name": "ftp",
+  "version": "0.1",
+  "description": "FTP client library with FXP and SSL support.",
+  "homepage": "https://github.com/casperploug/node-ftp-sslfxp",
+  "keywords": [
+    "ftp",
+    "ssl",
+    "net",
+    "tls"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/casperploug/node-ftp-sslfxp.git"
+  },
+  "author": {
+    "name": "casperploug",
+    "github": "https://github.com/casperploug"
+  },
+  "main": "lib/ftp.js"
+}

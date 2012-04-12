@@ -1,0 +1,5 @@
+FTP client library with FXP and SSL support.
+
+status: not done (basic)
+
+No extra dependencies needed. See lib/starttls.js for credit to original gist.
